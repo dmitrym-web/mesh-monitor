@@ -97,6 +97,7 @@ Meshtastic используют для связи в туристических 
 | Согласие на незашифрованную передачу данных ноды через MQTT | вкл |
 
 ![MQTT — Отчет карты — iPhone](images/iPhone/mqtt-map.jpg)
+![MQTT — Отчет карты, согласие — iPhone](images/iPhone/mqtt-map-consent.jpg)
 
 ---
 
